@@ -11,7 +11,7 @@ multi-table foreign-key integrity):
 **License: MIT.** The generator product is not in this package. This is
 reference data, metrics, and methodology only.
 
-> **Public repo:** [github.com/synthforgeio/synthetic-data-benchmarks](https://github.com/synthforgeio/synthetic-data-benchmarks)
+> **Public repo:** [github.com/synthforgeio/benchmarks](https://github.com/synthforgeio/benchmarks)
 >
 > Maintainer sync source in the private monorepo: `distribution/oss-synthetic-data-benchmarks/`.
 
